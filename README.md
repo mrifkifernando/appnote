@@ -1,0 +1,2 @@
+# appnote
+tugas note sql
